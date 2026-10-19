@@ -8406,6 +8406,607 @@ Error generating stack: ` + i.message + `
                 "alt": "اختتامیهٔ نخستین جشنواره"
             },
             // ===== پوسترهای دورهٔ دوم =====
+            // ===== تصاویر اجراهای دورهٔ دوم =====
+            "chaharsandogh-1": {
+                "src": "./assets/chaharsandogh-1.webp",
+                "sm": "./assets/chaharsandogh-1-small.webp",
+                "full": "./assets/chaharsandogh-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «چهار صندوق»، دومین جشنواره"
+            },
+            "chaharsandogh-2": {
+                "src": "./assets/chaharsandogh-2.webp",
+                "sm": "./assets/chaharsandogh-2-small.webp",
+                "full": "./assets/chaharsandogh-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 2340, "h": 1080, "srcW": 2340,
+                "alt": "تصویر 2 از اجرای نمایش «چهار صندوق»، دومین جشنواره"
+            },
+            "chaharsandogh-3": {
+                "src": "./assets/chaharsandogh-3.webp",
+                "sm": "./assets/chaharsandogh-3-small.webp",
+                "full": "./assets/chaharsandogh-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3288, "srcW": 4320,
+                "alt": "تصویر 3 از اجرای نمایش «چهار صندوق»، دومین جشنواره"
+            },
+            "chaharsandogh-4": {
+                "src": "./assets/chaharsandogh-4.webp",
+                "sm": "./assets/chaharsandogh-4-small.webp",
+                "full": "./assets/chaharsandogh-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 4 از اجرای نمایش «چهار صندوق»، دومین جشنواره"
+            },
+            "chaharsandogh-5": {
+                "src": "./assets/chaharsandogh-5.webp",
+                "sm": "./assets/chaharsandogh-5-small.webp",
+                "full": "./assets/chaharsandogh-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 1574, "h": 1080, "srcW": 1574,
+                "alt": "تصویر 5 از اجرای نمایش «چهار صندوق»، دومین جشنواره"
+            },
+            "khoone-pars-1": {
+                "src": "./assets/khoone-pars-1.webp",
+                "sm": "./assets/khoone-pars-1-small.webp",
+                "full": "./assets/khoone-pars-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «خون پارس»، دومین جشنواره"
+            },
+            "khoone-pars-2": {
+                "src": "./assets/khoone-pars-2.webp",
+                "sm": "./assets/khoone-pars-2-small.webp",
+                "full": "./assets/khoone-pars-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 2340, "h": 1080, "srcW": 2340,
+                "alt": "تصویر 2 از اجرای نمایش «خون پارس»، دومین جشنواره"
+            },
+            "khoone-pars-3": {
+                "src": "./assets/khoone-pars-3.webp",
+                "sm": "./assets/khoone-pars-3-small.webp",
+                "full": "./assets/khoone-pars-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2420, "srcW": 4320,
+                "alt": "تصویر 3 از اجرای نمایش «خون پارس»، دومین جشنواره"
+            },
+            "khoone-pars-4": {
+                "src": "./assets/khoone-pars-4.webp",
+                "sm": "./assets/khoone-pars-4-small.webp",
+                "full": "./assets/khoone-pars-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 2340, "h": 1080, "srcW": 2340,
+                "alt": "تصویر 4 از اجرای نمایش «خون پارس»، دومین جشنواره"
+            },
+            "khoone-pars-5": {
+                "src": "./assets/khoone-pars-5.webp",
+                "sm": "./assets/khoone-pars-5-small.webp",
+                "full": "./assets/khoone-pars-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2924, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «خون پارس»، دومین جشنواره"
+            },
+            "do-metr-1": {
+                "src": "./assets/do-metr-1.webp",
+                "sm": "./assets/do-metr-1-small.webp",
+                "full": "./assets/do-metr-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «دو متر در دو متر جنگ»، دومین جشنواره"
+            },
+            "do-metr-2": {
+                "src": "./assets/do-metr-2.webp",
+                "sm": "./assets/do-metr-2-small.webp",
+                "full": "./assets/do-metr-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 2 از اجرای نمایش «دو متر در دو متر جنگ»، دومین جشنواره"
+            },
+            "do-metr-3": {
+                "src": "./assets/do-metr-3.webp",
+                "sm": "./assets/do-metr-3-small.webp",
+                "full": "./assets/do-metr-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 3 از اجرای نمایش «دو متر در دو متر جنگ»، دومین جشنواره"
+            },
+            "do-metr-4": {
+                "src": "./assets/do-metr-4.webp",
+                "sm": "./assets/do-metr-4-small.webp",
+                "full": "./assets/do-metr-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 4 از اجرای نمایش «دو متر در دو متر جنگ»، دومین جشنواره"
+            },
+            "do-metr-5": {
+                "src": "./assets/do-metr-5.webp",
+                "sm": "./assets/do-metr-5-small.webp",
+                "full": "./assets/do-metr-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 5 از اجرای نمایش «دو متر در دو متر جنگ»، دومین جشنواره"
+            },
+            "roshanak2-1": {
+                "src": "./assets/roshanak2-1.webp",
+                "sm": "./assets/roshanak2-1-small.webp",
+                "full": "./assets/roshanak2-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 1 از اجرای نمایش «روشنک»، دومین جشنواره"
+            },
+            "roshanak2-2": {
+                "src": "./assets/roshanak2-2.webp",
+                "sm": "./assets/roshanak2-2-small.webp",
+                "full": "./assets/roshanak2-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 2 از اجرای نمایش «روشنک»، دومین جشنواره"
+            },
+            "roshanak2-3": {
+                "src": "./assets/roshanak2-3.webp",
+                "sm": "./assets/roshanak2-3-small.webp",
+                "full": "./assets/roshanak2-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 3 از اجرای نمایش «روشنک»، دومین جشنواره"
+            },
+            "roshanak2-4": {
+                "src": "./assets/roshanak2-4.webp",
+                "sm": "./assets/roshanak2-4-small.webp",
+                "full": "./assets/roshanak2-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 4 از اجرای نمایش «روشنک»، دومین جشنواره"
+            },
+            "roshanak2-5": {
+                "src": "./assets/roshanak2-5.webp",
+                "sm": "./assets/roshanak2-5-small.webp",
+                "full": "./assets/roshanak2-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 5 از اجرای نمایش «روشنک»، دومین جشنواره"
+            },
+            "marg-yazdgerd-1": {
+                "src": "./assets/marg-yazdgerd-1.webp",
+                "sm": "./assets/marg-yazdgerd-1-small.webp",
+                "full": "./assets/marg-yazdgerd-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «مرگ یزدگرد»، دومین جشنواره"
+            },
+            "marg-yazdgerd-2": {
+                "src": "./assets/marg-yazdgerd-2.webp",
+                "sm": "./assets/marg-yazdgerd-2-small.webp",
+                "full": "./assets/marg-yazdgerd-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 1600, "h": 1051, "srcW": 1600,
+                "alt": "تصویر 2 از اجرای نمایش «مرگ یزدگرد»، دومین جشنواره"
+            },
+            "marg-yazdgerd-3": {
+                "src": "./assets/marg-yazdgerd-3.webp",
+                "sm": "./assets/marg-yazdgerd-3-small.webp",
+                "full": "./assets/marg-yazdgerd-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 3 از اجرای نمایش «مرگ یزدگرد»، دومین جشنواره"
+            },
+            "marg-yazdgerd-4": {
+                "src": "./assets/marg-yazdgerd-4.webp",
+                "sm": "./assets/marg-yazdgerd-4-small.webp",
+                "full": "./assets/marg-yazdgerd-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 4 از اجرای نمایش «مرگ یزدگرد»، دومین جشنواره"
+            },
+            "marg-yazdgerd-5": {
+                "src": "./assets/marg-yazdgerd-5.webp",
+                "sm": "./assets/marg-yazdgerd-5-small.webp",
+                "full": "./assets/marg-yazdgerd-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 5 از اجرای نمایش «مرگ یزدگرد»، دومین جشنواره"
+            },
+            "saat-10-shab-1": {
+                "src": "./assets/saat-10-shab-1.webp",
+                "sm": "./assets/saat-10-shab-1-small.webp",
+                "full": "./assets/saat-10-shab-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «ساعت ۱۰ شب»، دومین جشنواره"
+            },
+            "saat-10-shab-2": {
+                "src": "./assets/saat-10-shab-2.webp",
+                "sm": "./assets/saat-10-shab-2-small.webp",
+                "full": "./assets/saat-10-shab-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2612, "srcW": 4320,
+                "alt": "تصویر 2 از اجرای نمایش «ساعت ۱۰ شب»، دومین جشنواره"
+            },
+            "saat-10-shab-3": {
+                "src": "./assets/saat-10-shab-3.webp",
+                "sm": "./assets/saat-10-shab-3-small.webp",
+                "full": "./assets/saat-10-shab-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 1080, "h": 969, "srcW": 1080,
+                "alt": "تصویر 3 از اجرای نمایش «ساعت ۱۰ شب»، دومین جشنواره"
+            },
+            "saat-10-shab-4": {
+                "src": "./assets/saat-10-shab-4.webp",
+                "sm": "./assets/saat-10-shab-4-small.webp",
+                "full": "./assets/saat-10-shab-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3136, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «ساعت ۱۰ شب»، دومین جشنواره"
+            },
+            "saat-10-shab-5": {
+                "src": "./assets/saat-10-shab-5.webp",
+                "sm": "./assets/saat-10-shab-5-small.webp",
+                "full": "./assets/saat-10-shab-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3020, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «ساعت ۱۰ شب»، دومین جشنواره"
+            },
+            "rishe-ast-1": {
+                "src": "./assets/rishe-ast-1.webp",
+                "sm": "./assets/rishe-ast-1-small.webp",
+                "full": "./assets/rishe-ast-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «ریشه است، نه زنجیر»، دومین جشنواره"
+            },
+            "rishe-ast-2": {
+                "src": "./assets/rishe-ast-2.webp",
+                "sm": "./assets/rishe-ast-2-small.webp",
+                "full": "./assets/rishe-ast-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2896, "srcW": 4320,
+                "alt": "تصویر 2 از اجرای نمایش «ریشه است، نه زنجیر»، دومین جشنواره"
+            },
+            "rishe-ast-3": {
+                "src": "./assets/rishe-ast-3.webp",
+                "sm": "./assets/rishe-ast-3-small.webp",
+                "full": "./assets/rishe-ast-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2592, "srcW": 4320,
+                "alt": "تصویر 3 از اجرای نمایش «ریشه است، نه زنجیر»، دومین جشنواره"
+            },
+            "rishe-ast-4": {
+                "src": "./assets/rishe-ast-4.webp",
+                "sm": "./assets/rishe-ast-4-small.webp",
+                "full": "./assets/rishe-ast-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2908, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «ریشه است، نه زنجیر»، دومین جشنواره"
+            },
+            "rishe-ast-5": {
+                "src": "./assets/rishe-ast-5.webp",
+                "sm": "./assets/rishe-ast-5-small.webp",
+                "full": "./assets/rishe-ast-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3176, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «ریشه است، نه زنجیر»، دومین جشنواره"
+            },
+            "sang-kaghaz-1": {
+                "src": "./assets/sang-kaghaz-1.webp",
+                "sm": "./assets/sang-kaghaz-1-small.webp",
+                "full": "./assets/sang-kaghaz-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"
+            },
+            "sang-kaghaz-2": {
+                "src": "./assets/sang-kaghaz-2.webp",
+                "sm": "./assets/sang-kaghaz-2-small.webp",
+                "full": "./assets/sang-kaghaz-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2652, "srcW": 4320,
+                "alt": "تصویر 2 از اجرای نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"
+            },
+            "sang-kaghaz-3": {
+                "src": "./assets/sang-kaghaz-3.webp",
+                "sm": "./assets/sang-kaghaz-3-small.webp",
+                "full": "./assets/sang-kaghaz-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2708, "srcW": 4320,
+                "alt": "تصویر 3 از اجرای نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"
+            },
+            "sang-kaghaz-4": {
+                "src": "./assets/sang-kaghaz-4.webp",
+                "sm": "./assets/sang-kaghaz-4-small.webp",
+                "full": "./assets/sang-kaghaz-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3000, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"
+            },
+            "sang-kaghaz-5": {
+                "src": "./assets/sang-kaghaz-5.webp",
+                "sm": "./assets/sang-kaghaz-5-small.webp",
+                "full": "./assets/sang-kaghaz-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2780, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"
+            },
+            "Barfak-1": {
+                "src": "./assets/Barfak-1.webp",
+                "sm": "./assets/Barfak-1-small.webp",
+                "full": "./assets/Barfak-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «برفک»، دومین جشنواره"
+            },
+            "Barfak-2": {
+                "src": "./assets/Barfak-2.webp",
+                "sm": "./assets/Barfak-2-small.webp",
+                "full": "./assets/Barfak-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3052, "srcW": 4320,
+                "alt": "تصویر 2 از اجرای نمایش «برفک»، دومین جشنواره"
+            },
+            "Barfak-3": {
+                "src": "./assets/Barfak-3.webp",
+                "sm": "./assets/Barfak-3-small.webp",
+                "full": "./assets/Barfak-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3400, "srcW": 4320,
+                "alt": "تصویر 3 از اجرای نمایش «برفک»، دومین جشنواره"
+            },
+            "Barfak-4": {
+                "src": "./assets/Barfak-4.webp",
+                "sm": "./assets/Barfak-4-small.webp",
+                "full": "./assets/Barfak-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 3112, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «برفک»، دومین جشنواره"
+            },
+            "Barfak-5": {
+                "src": "./assets/Barfak-5.webp",
+                "sm": "./assets/Barfak-5-small.webp",
+                "full": "./assets/Barfak-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 1080, "h": 941, "srcW": 1080,
+                "alt": "تصویر 5 از اجرای نمایش «برفک»، دومین جشنواره"
+            },
+            "Zaban-tameshk-1": {
+                "src": "./assets/Zaban-tameshk-1.webp",
+                "sm": "./assets/Zaban-tameshk-1-small.webp",
+                "full": "./assets/Zaban-tameshk-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"
+            },
+            "Zaban-tameshk-2": {
+                "src": "./assets/Zaban-tameshk-2.webp",
+                "sm": "./assets/Zaban-tameshk-2-small.webp",
+                "full": "./assets/Zaban-tameshk-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 5120, "h": 3840, "srcW": 5120,
+                "alt": "تصویر 2 از اجرای نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"
+            },
+            "Zaban-tameshk-3": {
+                "src": "./assets/Zaban-tameshk-3.webp",
+                "sm": "./assets/Zaban-tameshk-3-small.webp",
+                "full": "./assets/Zaban-tameshk-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 5796, "h": 3870, "srcW": 5796,
+                "alt": "تصویر 3 از اجرای نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"
+            },
+            "Zaban-tameshk-5": {
+                "src": "./assets/Zaban-tameshk-5.webp",
+                "sm": "./assets/Zaban-tameshk-5-small.webp",
+                "full": "./assets/Zaban-tameshk-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 5 از اجرای نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"
+            },
+            "Zaban-tameshk-6": {
+                "src": "./assets/Zaban-tameshk-6.webp",
+                "sm": "./assets/Zaban-tameshk-6-small.webp",
+                "full": "./assets/Zaban-tameshk-6.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 1600, "h": 1067, "srcW": 1600,
+                "alt": "تصویر ۶ از اجرای نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"
+            },
+            "Hizom-1": {
+                "src": "./assets/Hizom-1.webp",
+                "sm": "./assets/Hizom-1-small.webp",
+                "full": "./assets/Hizom-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «هیزم»، دومین جشنواره"
+            },
+            "Hizom-2": {
+                "src": "./assets/Hizom-2.webp",
+                "sm": "./assets/Hizom-2-small.webp",
+                "full": "./assets/Hizom-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 2 از اجرای نمایش «هیزم»، دومین جشنواره"
+            },
+            "Hizom-3": {
+                "src": "./assets/Hizom-3.webp",
+                "sm": "./assets/Hizom-3-small.webp",
+                "full": "./assets/Hizom-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 3 از اجرای نمایش «هیزم»، دومین جشنواره"
+            },
+            "Hizom-4": {
+                "src": "./assets/Hizom-4.webp",
+                "sm": "./assets/Hizom-4-small.webp",
+                "full": "./assets/Hizom-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2984, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «هیزم»، دومین جشنواره"
+            },
+            "Hizom-5": {
+                "src": "./assets/Hizom-5.webp",
+                "sm": "./assets/Hizom-5-small.webp",
+                "full": "./assets/Hizom-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2676, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «هیزم»، دومین جشنواره"
+            },
+            "sohrab-koshi-1": {
+                "src": "./assets/sohrab-koshi-1.webp",
+                "sm": "./assets/sohrab-koshi-1-small.webp",
+                "full": "./assets/sohrab-koshi-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «سهراب‌کشی»، دومین جشنواره"
+            },
+            "sohrab-koshi-2": {
+                "src": "./assets/sohrab-koshi-2.webp",
+                "sm": "./assets/sohrab-koshi-2-small.webp",
+                "full": "./assets/sohrab-koshi-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2980, "srcW": 4320,
+                "alt": "تصویر 2 از اجرای نمایش «سهراب‌کشی»، دومین جشنواره"
+            },
+            "sohrab-koshi-3": {
+                "src": "./assets/sohrab-koshi-3.webp",
+                "sm": "./assets/sohrab-koshi-3-small.webp",
+                "full": "./assets/sohrab-koshi-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2728, "srcW": 4320,
+                "alt": "تصویر 3 از اجرای نمایش «سهراب‌کشی»، دومین جشنواره"
+            },
+            "sohrab-koshi-4": {
+                "src": "./assets/sohrab-koshi-4.webp",
+                "sm": "./assets/sohrab-koshi-4-small.webp",
+                "full": "./assets/sohrab-koshi-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2860, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «سهراب‌کشی»، دومین جشنواره"
+            },
+            "sohrab-koshi-5": {
+                "src": "./assets/sohrab-koshi-5.webp",
+                "sm": "./assets/sohrab-koshi-5-small.webp",
+                "full": "./assets/sohrab-koshi-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2876, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «سهراب‌کشی»، دومین جشنواره"
+            },
+            "man-zende-am-1": {
+                "src": "./assets/man-zende-am-1.webp",
+                "sm": "./assets/man-zende-am-1-small.webp",
+                "full": "./assets/man-zende-am-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «من زنده‌ام»، دومین جشنواره"
+            },
+            "man-zende-am-2": {
+                "src": "./assets/man-zende-am-2.webp",
+                "sm": "./assets/man-zende-am-2-small.webp",
+                "full": "./assets/man-zende-am-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 2 از اجرای نمایش «من زنده‌ام»، دومین جشنواره"
+            },
+            "man-zende-am-3": {
+                "src": "./assets/man-zende-am-3.webp",
+                "sm": "./assets/man-zende-am-3-small.webp",
+                "full": "./assets/man-zende-am-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 798, "h": 1730, "srcW": 798,
+                "alt": "تصویر 3 از اجرای نمایش «من زنده‌ام»، دومین جشنواره"
+            },
+            "man-zende-am-4": {
+                "src": "./assets/man-zende-am-4.webp",
+                "sm": "./assets/man-zende-am-4-small.webp",
+                "full": "./assets/man-zende-am-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2636, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «من زنده‌ام»، دومین جشنواره"
+            },
+            "man-zende-am-5": {
+                "src": "./assets/man-zende-am-5.webp",
+                "sm": "./assets/man-zende-am-5-small.webp",
+                "full": "./assets/man-zende-am-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2880, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «من زنده‌ام»، دومین جشنواره"
+            },
+            "cheshm-basteh-1": {
+                "src": "./assets/cheshm-basteh-1.webp",
+                "sm": "./assets/cheshm-basteh-1-small.webp",
+                "full": "./assets/cheshm-basteh-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «چشم‌های بسته از خواب»، دومین جشنواره"
+            },
+            "cheshm-basteh-2": {
+                "src": "./assets/cheshm-basteh-2.webp",
+                "sm": "./assets/cheshm-basteh-2-small.webp",
+                "full": "./assets/cheshm-basteh-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 2 از اجرای نمایش «چشم‌های بسته از خواب»، دومین جشنواره"
+            },
+            "cheshm-basteh-3": {
+                "src": "./assets/cheshm-basteh-3.webp",
+                "sm": "./assets/cheshm-basteh-3-small.webp",
+                "full": "./assets/cheshm-basteh-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 3 از اجرای نمایش «چشم‌های بسته از خواب»، دومین جشنواره"
+            },
+            "cheshm-basteh-4": {
+                "src": "./assets/cheshm-basteh-4.webp",
+                "sm": "./assets/cheshm-basteh-4-small.webp",
+                "full": "./assets/cheshm-basteh-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 4 از اجرای نمایش «چشم‌های بسته از خواب»، دومین جشنواره"
+            },
+            "cheshm-basteh-5": {
+                "src": "./assets/cheshm-basteh-5.webp",
+                "sm": "./assets/cheshm-basteh-5-small.webp",
+                "full": "./assets/cheshm-basteh-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 6160, "h": 4640, "srcW": 6160,
+                "alt": "تصویر 5 از اجرای نمایش «چشم‌های بسته از خواب»، دومین جشنواره"
+            },
+            "love-me-do-1": {
+                "src": "./assets/love-me-do-1.webp",
+                "sm": "./assets/love-me-do-1-small.webp",
+                "full": "./assets/love-me-do-1.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 3840, "h": 2160, "srcW": 3840,
+                "alt": "تصویر 1 از اجرای نمایش «Love Me Do»، دومین جشنواره"
+            },
+            "love-me-do-2": {
+                "src": "./assets/love-me-do-2.webp",
+                "sm": "./assets/love-me-do-2-small.webp",
+                "full": "./assets/love-me-do-2.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2876, "srcW": 4320,
+                "alt": "تصویر 2 از اجرای نمایش «Love Me Do»، دومین جشنواره"
+            },
+            "love-me-do-3": {
+                "src": "./assets/love-me-do-3.webp",
+                "sm": "./assets/love-me-do-3-small.webp",
+                "full": "./assets/love-me-do-3.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2668, "srcW": 4320,
+                "alt": "تصویر 3 از اجرای نمایش «Love Me Do»، دومین جشنواره"
+            },
+            "love-me-do-4": {
+                "src": "./assets/love-me-do-4.webp",
+                "sm": "./assets/love-me-do-4-small.webp",
+                "full": "./assets/love-me-do-4.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2436, "srcW": 4320,
+                "alt": "تصویر 4 از اجرای نمایش «Love Me Do»، دومین جشنواره"
+            },
+            "love-me-do-5": {
+                "src": "./assets/love-me-do-5.webp",
+                "sm": "./assets/love-me-do-5-small.webp",
+                "full": "./assets/love-me-do-5.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 4320, "h": 2552, "srcW": 4320,
+                "alt": "تصویر 5 از اجرای نمایش «Love Me Do»، دومین جشنواره"
+            },
             "work-e2-1": {
                 "src": "./assets/work-e2-1.webp",
                 "sm": "./assets/work-e2-1-small.webp",
@@ -10111,7 +10712,38 @@ Error generating stack: ` + i.message + `
                 ig: "azadeh_karambakhsh",
                 role: "بازیگر و کارگردان تئاتر"
             }],
-            awards: []
+            awards: [
+                {"category": "بخش طراحی پوستر", "rank": "رتبهٔ برگزیده", "recipient": "آرش باباخداوردی", "work": "edition-2-work-9", "note": "نمایش برفک و دومتر در دومتر جنگ"},
+                {"category": "بخش طراحی پوستر", "rank": "رتبهٔ برگزیده", "recipient": "آرش باباخداوردی", "work": "edition-2-work-3", "note": "نمایش برفک و دومتر در دومتر جنگ"},
+                {"category": "بخش موسیقی", "rank": "رتبهٔ سوم (مشترک)", "recipient": "آراد دانش", "work": "edition-2-work-12"},
+                {"category": "بخش موسیقی", "rank": "رتبهٔ سوم (مشترک)", "recipient": "علیرضا طاهری", "work": "edition-2-work-8"},
+                {"category": "بخش موسیقی", "rank": "رتبهٔ دوم (مشترک)", "recipient": "محمدرهام علیجانی", "work": "edition-2-work-10"},
+                {"category": "بخش موسیقی", "rank": "رتبهٔ دوم (مشترک)", "recipient": "باربد زمانی و علی محمدی", "work": "edition-2-work-4"},
+                {"category": "بخش موسیقی", "rank": "رتبهٔ اول", "recipient": "ندا رحمانی", "work": "edition-2-work-15"},
+                {"category": "بخش صحنه‌خوانی", "rank": "تقدیر", "recipient": "رویا خانجانی", "work": "edition-2-work-11"},
+                {"category": "بخش صحنه‌خوانی", "rank": "تقدیر", "recipient": "نازنین‌زهرا غنچه‌زاده", "work": "edition-2-work-2"},
+                {"category": "بخش بازیگری بانوان", "rank": "تقدیر", "recipient": "زهرا سادات حسینی", "work": "edition-2-work-7"},
+                {"category": "بخش بازیگری بانوان", "rank": "تقدیر", "recipient": "مهسا رحمانی‌نژاد", "work": "edition-2-work-12"},
+                {"category": "بخش بازیگری بانوان", "rank": "تقدیر", "recipient": "یسنا رمضانی", "work": "edition-2-work-3"},
+                {"category": "بخش بازیگری بانوان", "rank": "تقدیر", "recipient": "طهورا عابدی‌ها", "work": "edition-2-work-3"},
+                {"category": "بخش بازیگری بانوان", "rank": "جایزهٔ ویژه", "recipient": "گروه بازیگران زن نمایش من زنده‌ام", "work": "edition-2-work-13"},
+                {"category": "بخش بازیگری بانوان", "rank": "رتبهٔ سوم (مشترک)", "recipient": "کیمیا کاکاوند", "work": "edition-2-work-8"},
+                {"category": "بخش بازیگری بانوان", "rank": "رتبهٔ سوم (مشترک)", "recipient": "صبا نجف‌آبادی", "work": "edition-2-work-1"},
+                {"category": "بخش بازیگری بانوان", "rank": "رتبهٔ دوم (مشترک)", "recipient": "فاطمه اسلامی", "work": "edition-2-work-4"},
+                {"category": "بخش بازیگری بانوان", "rank": "رتبهٔ دوم (مشترک)", "recipient": "فرشته شکیبانیا", "work": "edition-2-work-10"},
+                {"category": "بخش بازیگری بانوان", "rank": "رتبهٔ اول", "recipient": "مونا گلپور", "work": "edition-2-work-5"},
+                {"category": "بخش بازیگری آقایان", "rank": "تقدیر", "recipient": "امین چهرازی", "work": "edition-2-work-2"},
+                {"category": "بخش بازیگری آقایان", "rank": "تقدیر", "recipient": "آراد اصلانی", "work": "edition-2-work-14"},
+                {"category": "بخش بازیگری آقایان", "rank": "رتبهٔ سوم (مشترک)", "recipient": "سینا نظری", "work": "edition-2-work-2"},
+                {"category": "بخش بازیگری آقایان", "rank": "رتبهٔ سوم (مشترک)", "recipient": "محمدامین فرازفر", "work": "edition-2-work-10"},
+                {"category": "بخش بازیگری آقایان", "rank": "رتبهٔ دوم", "recipient": "امیر حسین الفتی", "work": "edition-2-work-5"},
+                {"category": "بخش بازیگری آقایان", "rank": "رتبهٔ اول", "recipient": "پژمان پیکانی", "work": "edition-2-work-15"},
+                {"category": "بخش نمایشنامه‌نویسی", "rank": "برگزیده", "recipient": "محمدمهدی علی‌نژاد", "work": "edition-2-work-15", "note": "نویسندهٔ نمایشنامه Love Me Do"},
+                {"category": "بخش کارگردانی", "rank": "رتبهٔ سوم (مشترک)", "recipient": "محمدمهدی علی‌نژاد", "work": "edition-2-work-15"},
+                {"category": "بخش کارگردانی", "rank": "رتبهٔ سوم (مشترک)", "recipient": "صبا نجف‌آبادی", "work": "edition-2-work-1"},
+                {"category": "بخش کارگردانی", "rank": "رتبهٔ دوم", "recipient": "پدرام عطاپور", "work": "edition-2-work-8"},
+                {"category": "بخش کارگردانی", "rank": "رتبهٔ اول", "recipient": "لیلا رشوندی", "work": "edition-2-work-13"}
+            ]
         }],
         Cm = {
             "best-performance": "بهترین اجرا",
@@ -10317,7 +10949,7 @@ Error generating stack: ` + i.message + `
             "when": "دوشنبه ۲۰ مهرماه ۱۴۰۵، ساعت ۱۰ صبح",
             "description": null,
             "poster": "work-e2-1",
-            "images": [],
+            "images": ["chaharsandogh-1", "chaharsandogh-2"],
             "video": null,
             "featured": false
         }, {
@@ -10333,7 +10965,7 @@ Error generating stack: ` + i.message + `
             "when": "دوشنبه ۲۰ مهرماه ۱۴۰۵، ساعت ۱۱:۳۰",
             "description": null,
             "poster": "work-e2-2",
-            "images": [],
+            "images": ["khoone-pars-1", "khoone-pars-2"],
             "video": null,
             "featured": false
         }, {
@@ -10348,7 +10980,7 @@ Error generating stack: ` + i.message + `
             "when": "دوشنبه ۲۰ مهرماه ۱۴۰۵، ساعت ۱۵",
             "description": null,
             "poster": "work-e2-3",
-            "images": [],
+            "images": ["do-metr-1", "do-metr-2"],
             "video": null,
             "featured": false
         }, {
@@ -10363,7 +10995,7 @@ Error generating stack: ` + i.message + `
             "when": "دوشنبه ۲۰ مهرماه ۱۴۰۵، ساعت ۱۶:۳۰",
             "description": null,
             "poster": "work-e2-4",
-            "images": [],
+            "images": ["roshanak2-1", "roshanak2-2"],
             "video": null,
             "featured": false
         }, {
@@ -10378,7 +11010,7 @@ Error generating stack: ` + i.message + `
             "when": "دوشنبه ۲۰ مهرماه ۱۴۰۵، ساعت ۱۸",
             "description": null,
             "poster": "work-e2-5",
-            "images": [],
+            "images": ["marg-yazdgerd-1", "marg-yazdgerd-2"],
             "video": null,
             "featured": false
         }, {
@@ -10393,7 +11025,7 @@ Error generating stack: ` + i.message + `
             "when": "سه‌شنبه ۲۱ مهرماه ۱۴۰۵، ساعت ۱۰ صبح",
             "description": null,
             "poster": "work-e2-6",
-            "images": [],
+            "images": ["saat-10-shab-1", "saat-10-shab-2"],
             "video": null,
             "featured": false
         }, {
@@ -10408,7 +11040,7 @@ Error generating stack: ` + i.message + `
             "when": "سه‌شنبه ۲۱ مهرماه ۱۴۰۵، ساعت ۱۱:۳۰",
             "description": null,
             "poster": "work-e2-7",
-            "images": [],
+            "images": ["rishe-ast-1", "rishe-ast-2"],
             "video": null,
             "featured": false
         }, {
@@ -10423,7 +11055,7 @@ Error generating stack: ` + i.message + `
             "when": "سه‌شنبه ۲۱ مهرماه ۱۴۰۵، ساعت ۱۵",
             "description": null,
             "poster": "work-e2-8",
-            "images": [],
+            "images": ["sang-kaghaz-1", "sang-kaghaz-2"],
             "video": null,
             "featured": false
         }, {
@@ -10438,7 +11070,7 @@ Error generating stack: ` + i.message + `
             "when": "سه‌شنبه ۲۱ مهرماه ۱۴۰۵، ساعت ۱۶:۳۰",
             "description": null,
             "poster": "work-e2-9",
-            "images": [],
+            "images": ["Barfak-1", "Barfak-2"],
             "video": null,
             "featured": false
         }, {
@@ -10453,7 +11085,7 @@ Error generating stack: ` + i.message + `
             "when": "سه‌شنبه ۲۱ مهرماه ۱۴۰۵، ساعت ۱۸",
             "description": null,
             "poster": "work-e2-10",
-            "images": [],
+            "images": ["Zaban-tameshk-1", "Zaban-tameshk-2"],
             "video": null,
             "featured": false
         }, {
@@ -10468,7 +11100,7 @@ Error generating stack: ` + i.message + `
             "when": "چهارشنبه ۲۲ مهرماه ۱۴۰۵، ساعت ۱۰ صبح",
             "description": null,
             "poster": "work-e2-11",
-            "images": [],
+            "images": ["Hizom-1", "Hizom-2"],
             "video": null,
             "featured": false
         }, {
@@ -10483,7 +11115,7 @@ Error generating stack: ` + i.message + `
             "when": "چهارشنبه ۲۲ مهرماه ۱۴۰۵، ساعت ۱۱:۳۰",
             "description": null,
             "poster": "work-e2-12",
-            "images": [],
+            "images": ["sohrab-koshi-1", "sohrab-koshi-2"],
             "video": null,
             "featured": false
         }, {
@@ -10498,7 +11130,7 @@ Error generating stack: ` + i.message + `
             "when": "چهارشنبه ۲۲ مهرماه ۱۴۰۵، ساعت ۱۵",
             "description": null,
             "poster": "work-e2-13",
-            "images": [],
+            "images": ["man-zende-am-1", "man-zende-am-2"],
             "video": null,
             "featured": false
         }, {
@@ -10513,7 +11145,7 @@ Error generating stack: ` + i.message + `
             "when": "چهارشنبه ۲۲ مهرماه ۱۴۰۵، ساعت ۱۶:۳۰",
             "description": null,
             "poster": "work-e2-14",
-            "images": [],
+            "images": ["cheshm-basteh-1", "cheshm-basteh-2"],
             "video": null,
             "featured": false
         }, {
@@ -10529,7 +11161,7 @@ Error generating stack: ` + i.message + `
             "when": "چهارشنبه ۲۲ مهرماه ۱۴۰۵، ساعت ۱۸",
             "description": null,
             "poster": "work-e2-15",
-            "images": [],
+            "images": ["love-me-do-1", "love-me-do-2"],
             "video": null,
             "featured": false
         }],
@@ -11050,8 +11682,54 @@ Error generating stack: ` + i.message + `
         {"id": "show-Barzist-5", "type": "image", "category": "shows", "edition": "edition-1", "media": "Barzist-5", "work": "edition-1-work-8", "groupTitle": "بر زیست", "caption": "نمایش «بر زیست»، نخستین جشنواره", "all": false},
         {"id": "show-Arash-group-3", "type": "image", "category": "shows", "edition": "edition-1", "media": "Arash-group-3", "work": "edition-1-work-9", "groupTitle": "آرش (اجرای گروهی)", "caption": "نمایش «آرش (اجرای گروهی)»، نخستین جشنواره"},
         {"id": "show-Arash-group-4", "type": "image", "category": "shows", "edition": "edition-1", "media": "Arash-group-4", "work": "edition-1-work-9", "groupTitle": "آرش (اجرای گروهی)", "caption": "نمایش «آرش (اجرای گروهی)»، نخستین جشنواره"},
-        {"id": "show-Arash-group-5", "type": "image", "category": "shows", "edition": "edition-1", "media": "Arash-group-5", "work": "edition-1-work-9", "groupTitle": "آرش (اجرای گروهی)", "caption": "نمایش «آرش (اجرای گروهی)»، نخستین جشنواره", "all": false}, {
-            id: "poster-2",
+        {"id": "show-Arash-group-5", "type": "image", "category": "shows", "edition": "edition-1", "media": "Arash-group-5", "work": "edition-1-work-9", "groupTitle": "آرش (اجرای گروهی)", "caption": "نمایش «آرش (اجرای گروهی)»، نخستین جشنواره", "all": false},
+        // ===== تصاویر اجراهای دورهٔ دوم: دو تصویر در صفحهٔ اجرا، سه تصویر در گالری =====
+        {"id":"show-e2-1-3","type":"image","category":"shows","edition":"edition-2","media":"chaharsandogh-3","work":"edition-2-work-1","groupTitle":"چهار صندوق","caption":"نمایش «چهار صندوق»، دومین جشنواره"},
+        {"id":"show-e2-1-4","type":"image","category":"shows","edition":"edition-2","media":"chaharsandogh-4","work":"edition-2-work-1","groupTitle":"چهار صندوق","caption":"نمایش «چهار صندوق»، دومین جشنواره"},
+        {"id":"show-e2-1-5","type":"image","category":"shows","edition":"edition-2","media":"chaharsandogh-5","work":"edition-2-work-1","groupTitle":"چهار صندوق","caption":"نمایش «چهار صندوق»، دومین جشنواره"},
+        {"id":"show-e2-2-3","type":"image","category":"shows","edition":"edition-2","media":"khoone-pars-3","work":"edition-2-work-2","groupTitle":"خون پارس","caption":"نمایش «خون پارس»، دومین جشنواره"},
+        {"id":"show-e2-2-4","type":"image","category":"shows","edition":"edition-2","media":"khoone-pars-4","work":"edition-2-work-2","groupTitle":"خون پارس","caption":"نمایش «خون پارس»، دومین جشنواره"},
+        {"id":"show-e2-2-5","type":"image","category":"shows","edition":"edition-2","media":"khoone-pars-5","work":"edition-2-work-2","groupTitle":"خون پارس","caption":"نمایش «خون پارس»، دومین جشنواره"},
+        {"id":"show-e2-3-3","type":"image","category":"shows","edition":"edition-2","media":"do-metr-3","work":"edition-2-work-3","groupTitle":"دو متر در دو متر جنگ","caption":"نمایش «دو متر در دو متر جنگ»، دومین جشنواره"},
+        {"id":"show-e2-3-4","type":"image","category":"shows","edition":"edition-2","media":"do-metr-4","work":"edition-2-work-3","groupTitle":"دو متر در دو متر جنگ","caption":"نمایش «دو متر در دو متر جنگ»، دومین جشنواره"},
+        {"id":"show-e2-3-5","type":"image","category":"shows","edition":"edition-2","media":"do-metr-5","work":"edition-2-work-3","groupTitle":"دو متر در دو متر جنگ","caption":"نمایش «دو متر در دو متر جنگ»، دومین جشنواره"},
+        {"id":"show-e2-4-3","type":"image","category":"shows","edition":"edition-2","media":"roshanak2-3","work":"edition-2-work-4","groupTitle":"روشنک","caption":"نمایش «روشنک»، دومین جشنواره"},
+        {"id":"show-e2-4-4","type":"image","category":"shows","edition":"edition-2","media":"roshanak2-4","work":"edition-2-work-4","groupTitle":"روشنک","caption":"نمایش «روشنک»، دومین جشنواره"},
+        {"id":"show-e2-4-5","type":"image","category":"shows","edition":"edition-2","media":"roshanak2-5","work":"edition-2-work-4","groupTitle":"روشنک","caption":"نمایش «روشنک»، دومین جشنواره"},
+        {"id":"show-e2-5-3","type":"image","category":"shows","edition":"edition-2","media":"marg-yazdgerd-3","work":"edition-2-work-5","groupTitle":"مرگ یزدگرد","caption":"نمایش «مرگ یزدگرد»، دومین جشنواره"},
+        {"id":"show-e2-5-4","type":"image","category":"shows","edition":"edition-2","media":"marg-yazdgerd-4","work":"edition-2-work-5","groupTitle":"مرگ یزدگرد","caption":"نمایش «مرگ یزدگرد»، دومین جشنواره"},
+        {"id":"show-e2-5-5","type":"image","category":"shows","edition":"edition-2","media":"marg-yazdgerd-5","work":"edition-2-work-5","groupTitle":"مرگ یزدگرد","caption":"نمایش «مرگ یزدگرد»، دومین جشنواره"},
+        {"id":"show-e2-6-3","type":"image","category":"shows","edition":"edition-2","media":"saat-10-shab-3","work":"edition-2-work-6","groupTitle":"ساعت ۱۰ شب","caption":"نمایش «ساعت ۱۰ شب»، دومین جشنواره"},
+        {"id":"show-e2-6-4","type":"image","category":"shows","edition":"edition-2","media":"saat-10-shab-4","work":"edition-2-work-6","groupTitle":"ساعت ۱۰ شب","caption":"نمایش «ساعت ۱۰ شب»، دومین جشنواره"},
+        {"id":"show-e2-6-5","type":"image","category":"shows","edition":"edition-2","media":"saat-10-shab-5","work":"edition-2-work-6","groupTitle":"ساعت ۱۰ شب","caption":"نمایش «ساعت ۱۰ شب»، دومین جشنواره"},
+        {"id":"show-e2-7-3","type":"image","category":"shows","edition":"edition-2","media":"rishe-ast-3","work":"edition-2-work-7","groupTitle":"ریشه است، نه زنجیر","caption":"نمایش «ریشه است، نه زنجیر»، دومین جشنواره"},
+        {"id":"show-e2-7-4","type":"image","category":"shows","edition":"edition-2","media":"rishe-ast-4","work":"edition-2-work-7","groupTitle":"ریشه است، نه زنجیر","caption":"نمایش «ریشه است، نه زنجیر»، دومین جشنواره"},
+        {"id":"show-e2-7-5","type":"image","category":"shows","edition":"edition-2","media":"rishe-ast-5","work":"edition-2-work-7","groupTitle":"ریشه است، نه زنجیر","caption":"نمایش «ریشه است، نه زنجیر»، دومین جشنواره"},
+        {"id":"show-e2-8-3","type":"image","category":"shows","edition":"edition-2","media":"sang-kaghaz-3","work":"edition-2-work-8","groupTitle":"سنگ، کاغذ، قیچی","caption":"نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"},
+        {"id":"show-e2-8-4","type":"image","category":"shows","edition":"edition-2","media":"sang-kaghaz-4","work":"edition-2-work-8","groupTitle":"سنگ، کاغذ، قیچی","caption":"نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"},
+        {"id":"show-e2-8-5","type":"image","category":"shows","edition":"edition-2","media":"sang-kaghaz-5","work":"edition-2-work-8","groupTitle":"سنگ، کاغذ، قیچی","caption":"نمایش «سنگ، کاغذ، قیچی»، دومین جشنواره"},
+        {"id":"show-e2-9-3","type":"image","category":"shows","edition":"edition-2","media":"Barfak-3","work":"edition-2-work-9","groupTitle":"برفک","caption":"نمایش «برفک»، دومین جشنواره"},
+        {"id":"show-e2-9-4","type":"image","category":"shows","edition":"edition-2","media":"Barfak-4","work":"edition-2-work-9","groupTitle":"برفک","caption":"نمایش «برفک»، دومین جشنواره"},
+        {"id":"show-e2-9-5","type":"image","category":"shows","edition":"edition-2","media":"Barfak-5","work":"edition-2-work-9","groupTitle":"برفک","caption":"نمایش «برفک»، دومین جشنواره"},
+        {"id":"show-e2-10-3","type":"image","category":"shows","edition":"edition-2","media":"Zaban-tameshk-3","work":"edition-2-work-10","groupTitle":"زبان تمشک‌های وحشی","caption":"نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"},
+        {"id":"show-e2-10-5","type":"image","category":"shows","edition":"edition-2","media":"Zaban-tameshk-5","work":"edition-2-work-10","groupTitle":"زبان تمشک‌های وحشی","caption":"نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"},
+        {"id":"show-e2-10-6","type":"image","category":"shows","edition":"edition-2","media":"Zaban-tameshk-6","work":"edition-2-work-10","groupTitle":"زبان تمشک‌های وحشی","caption":"نمایش «زبان تمشک‌های وحشی»، دومین جشنواره"},
+        {"id":"show-e2-11-3","type":"image","category":"shows","edition":"edition-2","media":"Hizom-3","work":"edition-2-work-11","groupTitle":"هیزم","caption":"نمایش «هیزم»، دومین جشنواره"},
+        {"id":"show-e2-11-4","type":"image","category":"shows","edition":"edition-2","media":"Hizom-4","work":"edition-2-work-11","groupTitle":"هیزم","caption":"نمایش «هیزم»، دومین جشنواره"},
+        {"id":"show-e2-11-5","type":"image","category":"shows","edition":"edition-2","media":"Hizom-5","work":"edition-2-work-11","groupTitle":"هیزم","caption":"نمایش «هیزم»، دومین جشنواره"},
+        {"id":"show-e2-12-3","type":"image","category":"shows","edition":"edition-2","media":"sohrab-koshi-3","work":"edition-2-work-12","groupTitle":"سهراب‌کشی","caption":"نمایش «سهراب‌کشی»، دومین جشنواره"},
+        {"id":"show-e2-12-4","type":"image","category":"shows","edition":"edition-2","media":"sohrab-koshi-4","work":"edition-2-work-12","groupTitle":"سهراب‌کشی","caption":"نمایش «سهراب‌کشی»، دومین جشنواره"},
+        {"id":"show-e2-12-5","type":"image","category":"shows","edition":"edition-2","media":"sohrab-koshi-5","work":"edition-2-work-12","groupTitle":"سهراب‌کشی","caption":"نمایش «سهراب‌کشی»، دومین جشنواره"},
+        {"id":"show-e2-13-3","type":"image","category":"shows","edition":"edition-2","media":"man-zende-am-3","work":"edition-2-work-13","groupTitle":"من زنده‌ام","caption":"نمایش «من زنده‌ام»، دومین جشنواره"},
+        {"id":"show-e2-13-4","type":"image","category":"shows","edition":"edition-2","media":"man-zende-am-4","work":"edition-2-work-13","groupTitle":"من زنده‌ام","caption":"نمایش «من زنده‌ام»، دومین جشنواره"},
+        {"id":"show-e2-13-5","type":"image","category":"shows","edition":"edition-2","media":"man-zende-am-5","work":"edition-2-work-13","groupTitle":"من زنده‌ام","caption":"نمایش «من زنده‌ام»، دومین جشنواره"},
+        {"id":"show-e2-14-3","type":"image","category":"shows","edition":"edition-2","media":"cheshm-basteh-3","work":"edition-2-work-14","groupTitle":"چشم‌های بسته از خواب","caption":"نمایش «چشم‌های بسته از خواب»، دومین جشنواره"},
+        {"id":"show-e2-14-4","type":"image","category":"shows","edition":"edition-2","media":"cheshm-basteh-4","work":"edition-2-work-14","groupTitle":"چشم‌های بسته از خواب","caption":"نمایش «چشم‌های بسته از خواب»، دومین جشنواره"},
+        {"id":"show-e2-14-5","type":"image","category":"shows","edition":"edition-2","media":"cheshm-basteh-5","work":"edition-2-work-14","groupTitle":"چشم‌های بسته از خواب","caption":"نمایش «چشم‌های بسته از خواب»، دومین جشنواره"},
+        {"id":"show-e2-15-3","type":"image","category":"shows","edition":"edition-2","media":"love-me-do-3","work":"edition-2-work-15","groupTitle":"Love Me Do","caption":"نمایش «Love Me Do»، دومین جشنواره"},
+        {"id":"show-e2-15-4","type":"image","category":"shows","edition":"edition-2","media":"love-me-do-4","work":"edition-2-work-15","groupTitle":"Love Me Do","caption":"نمایش «Love Me Do»، دومین جشنواره"},
+        {"id":"show-e2-15-5","type":"image","category":"shows","edition":"edition-2","media":"love-me-do-5","work":"edition-2-work-15","groupTitle":"Love Me Do","caption":"نمایش «Love Me Do»، دومین جشنواره"},
+        {            id: "poster-2",
             type: "image",
             category: "posters",
             edition: "edition-2",
@@ -11110,6 +11788,15 @@ Error generating stack: ` + i.message + `
                 kind: "file",
                 src: "./assets/teaser-edition-2.mp4"
             }
+        }, {
+            id: "video-edition-2-closing",
+            type: "video",
+            category: "videos",
+            edition: "edition-2",
+            title: "اختتامیهٔ دومین جشنواره",
+            duration: "[مدت ویدئو]",
+            thumb: "closing-edition-1",
+            video: { kind: "file", src: "./assets/closing-edition-2.mp4" }
         }],
         Nd = [{
             slug: "foundation",
