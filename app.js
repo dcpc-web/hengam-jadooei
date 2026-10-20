@@ -7485,12 +7485,13 @@ Error generating stack: ` + i.message + `
             params: {}
         }),
         Xc = a(() => {
-            let s = window.location.hash.replace(/^#/, "") || "/";
+            let s = window.location.protocol === "file:" ? (window.location.hash.replace(/^#/, "") || "/") : (window.location.pathname || "/");
+            if (s === "/404.html" && window.location.hash) s = window.location.hash.replace(/^#/, "");
             if (!s.startsWith("/")) return null;
             let o = s.split("?")[0].replace(/\/+$/, "");
             return o === "" ? "/" : o
         }, "readPath"),
-        pt = a(s => `#${s}`, "href");
+        pt = a(s => window.location.protocol === "file:" ? `#${s || "/"}` : (s || "/"), "href");
 
     function Gc(s, o) {
         for (let d of s) {
@@ -7521,20 +7522,29 @@ Error generating stack: ` + i.message + `
                     w !== null && d(w)
                 }, "onChange"),
                 x = a(w => {
-                    let z = w.target.closest?.('a[href^="#"]');
+                    let z = w.target.closest?.("a");
                     if (!z) return;
-                    let C = z.getAttribute("href");
-                    if (C.startsWith("#/") || C === "#") return;
-                    let N = document.getElementById(C.slice(1));
-                    N && (w.preventDefault(), N.scrollIntoView({
-                        behavior: "smooth",
-                        block: "start"
-                    }), N.tabIndex < 0 && !N.hasAttribute("tabindex") && N.setAttribute("tabindex", "-1"), N.focus({
-                        preventScroll: !0
-                    }))
-                }, "onClick");
-            return window.addEventListener("hashchange", g), document.addEventListener("click", x), () => {
-                window.removeEventListener("hashchange", g), document.removeEventListener("click", x)
+                    let C = z.getAttribute("href") || "";
+                    if (C.startsWith("#")) {
+                        if (C === "#" || C.startsWith("#/")) return;
+                        let N = document.getElementById(C.slice(1));
+                        N && (w.preventDefault(), N.scrollIntoView({behavior: "smooth", block: "start"}), N.tabIndex < 0 && !N.hasAttribute("tabindex") && N.setAttribute("tabindex", "-1"), N.focus({preventScroll: !0}));
+                        return
+                    }
+                    if (C.startsWith("/") && !z.target && !w.metaKey && !w.ctrlKey && !w.shiftKey && !w.altKey) {
+                        w.preventDefault();
+                        history.pushState({}, "", C);
+                        let N = Xc();
+                        N !== null && d(N);
+                        window.scrollTo({top: 0, behavior: "smooth"});
+                    }
+                }, "onClick"),
+                h = a(() => {
+                    let w = Xc();
+                    w !== null && d(w)
+                }, "onPopState");
+            return window.addEventListener("popstate", h), document.addEventListener("click", x), () => {
+                window.removeEventListener("popstate", h), document.removeEventListener("click", x)
             }
         }, []);
         let c = (0, ul.useMemo)(() => ({
@@ -13672,7 +13682,7 @@ Error generating stack: ` + i.message + `
                     className: "latest__poster-wrap",
                     children: (0, M.jsxs)("a", {
                         ref: o,
-                        href: `#/editions/${s.slug}`,
+                        href: `/editions/${s.slug}`,
                         className: "latest__poster",
                         "data-cursor": "view",
                         "aria-label": `پوستر ${s.title}`,
@@ -14415,7 +14425,7 @@ Error generating stack: ` + i.message + `
                         children: [(0, Y.jsx)(wl, {
                             items: c
                         }), (0, Y.jsx)("a", {
-                            href: `#/editions/${d.slug}`,
+                            href: `/editions/${d.slug}`,
                             className: "t-label",
                             children: d.label
                         }), (0, Y.jsx)(I, {
@@ -15718,7 +15728,7 @@ Error generating stack: ` + i.message + `
                                 children: o.date
                             }), g ? (0, ye.jsx)("a", {
                                 className: "t-meta",
-                                href: `#/editions/${g.slug}`,
+                                href: `/editions/${g.slug}`,
                                 children: g.label
                             }) : null]
                         }), (0, ye.jsx)(Lt, {
