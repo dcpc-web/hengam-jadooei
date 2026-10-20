@@ -10223,3 +10223,45 @@ html[data-ed="1"] .subnav {
         touch-action: pinch-zoom
     }
 }
+
+
+/* Quiet attribution and silver award badge */
+.show-card__badge--silver {
+    color: #18201d;
+    background: linear-gradient(135deg, #d9e0df, #8d9997);
+}
+.footer__provider {
+    display: block;
+    width: fit-content;
+    margin-top: .3rem;
+    color: rgb(210 210 200 / .32);
+    font-size: .68rem;
+    font-weight: 400;
+    letter-spacing: .08em;
+    opacity: .7;
+    transition: color .2s ease, opacity .2s ease;
+}
+.footer__provider:hover,
+.footer__provider:focus-visible { color: rgb(235 235 225 / .72); opacity: 1; }
+
+/* SEO attribution: intentionally quiet and pinned to the far left of the footer. */
+.footer__bottom {
+     position: relative;
+     padding-bottom: 1.2rem;
+    }
+.footer__provider {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin: 0;
+    display: block;
+    width: fit-content;
+    color: rgb(210 210 200 / .28);
+    font-size: .62rem;
+    letter-spacing: .05em;
+    opacity: .65;
+    white-space: nowrap;
+    z-index: 10;
+}
+.footer__provider:hover,
+.footer__provider:focus-visible { color: rgb(235 235 225 / .7); opacity: 1; }

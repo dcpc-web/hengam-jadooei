@@ -9784,7 +9784,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-1.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1080, "h": 1288, "srcW": 1080,
-                "alt": "Awards2-1"
+                "alt": "تصویر 1 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-10": {
                 "src": "./assets/Awards2-10.webp",
@@ -9792,7 +9792,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-10.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 902, "h": 1600, "srcW": 902,
-                "alt": "Awards2-10"
+                "alt": "تصویر 10 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-11": {
                 "src": "./assets/Awards2-11.webp",
@@ -9800,7 +9800,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-11.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 738, "h": 1600, "srcW": 738,
-                "alt": "Awards2-11"
+                "alt": "تصویر 11 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-12": {
                 "src": "./assets/Awards2-12.webp",
@@ -9808,7 +9808,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-12.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1080, "h": 1579, "srcW": 1080,
-                "alt": "Awards2-12"
+                "alt": "تصویر 12 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-13": {
                 "src": "./assets/Awards2-13.webp",
@@ -9816,7 +9816,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-13.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1080, "h": 1065, "srcW": 1080,
-                "alt": "Awards2-13"
+                "alt": "تصویر 13 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-14": {
                 "src": "./assets/Awards2-14.webp",
@@ -9824,7 +9824,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-14.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 949, "h": 1600, "srcW": 949,
-                "alt": "Awards2-14"
+                "alt": "تصویر 14 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-15": {
                 "src": "./assets/Awards2-15.webp",
@@ -9832,7 +9832,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-15.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 880, "h": 1600, "srcW": 880,
-                "alt": "Awards2-15"
+                "alt": "تصویر 15 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-16": {
                 "src": "./assets/Awards2-16.webp",
@@ -9840,7 +9840,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-16.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 968, "h": 1600, "srcW": 968,
-                "alt": "Awards2-16"
+                "alt": "تصویر 16 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-17": {
                 "src": "./assets/Awards2-17.webp",
@@ -9848,7 +9848,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-17.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 819, "srcW": 1600,
-                "alt": "Awards2-17"
+                "alt": "تصویر 17 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-18": {
                 "src": "./assets/Awards2-18.webp",
@@ -9856,7 +9856,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-18.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 900, "h": 1600, "srcW": 900,
-                "alt": "Awards2-18"
+                "alt": "تصویر 18 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-19": {
                 "src": "./assets/Awards2-19.webp",
@@ -9864,7 +9864,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-19.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 917, "h": 1600, "srcW": 917,
-                "alt": "Awards2-19"
+                "alt": "تصویر 19 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-2": {
                 "src": "./assets/Awards2-2.webp",
@@ -9872,7 +9872,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-2.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 930, "h": 1600, "srcW": 930,
-                "alt": "Awards2-2"
+                "alt": "تصویر 2 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-20": {
                 "src": "./assets/Awards2-20.webp",
@@ -9880,7 +9880,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-20.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 969, "h": 1600, "srcW": 969,
-                "alt": "Awards2-20"
+                "alt": "تصویر 20 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-3": {
                 "src": "./assets/Awards2-3.webp",
@@ -9888,7 +9888,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-3.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1299, "h": 1600, "srcW": 1299,
-                "alt": "Awards2-3"
+                "alt": "تصویر 3 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-4": {
                 "src": "./assets/Awards2-4.webp",
@@ -9896,7 +9896,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-4.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 950, "h": 1600, "srcW": 950,
-                "alt": "Awards2-4"
+                "alt": "تصویر 4 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-5": {
                 "src": "./assets/Awards2-5.webp",
@@ -9904,7 +9904,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-5.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1076, "srcW": 1600,
-                "alt": "Awards2-5"
+                "alt": "تصویر 5 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-6": {
                 "src": "./assets/Awards2-6.webp",
@@ -9912,7 +9912,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-6.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1034, "h": 1600, "srcW": 1034,
-                "alt": "Awards2-6"
+                "alt": "تصویر 6 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-7": {
                 "src": "./assets/Awards2-7.webp",
@@ -9920,7 +9920,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-7.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1080, "h": 1458, "srcW": 1080,
-                "alt": "Awards2-7"
+                "alt": "تصویر 7 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-8": {
                 "src": "./assets/Awards2-8.webp",
@@ -9928,7 +9928,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-8.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 945, "h": 1600, "srcW": 945,
-                "alt": "Awards2-8"
+                "alt": "تصویر 8 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Awards2-9": {
                 "src": "./assets/Awards2-9.webp",
@@ -9936,7 +9936,17 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Awards2-9.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 893, "h": 1600, "srcW": 893,
-                "alt": "Awards2-9"
+                "alt": "تصویر 9 از برگزیدگان دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
+            },
+            "Festival2-21": {
+                "src": "./assets/Festival2-21.webp",
+                "sm": "./assets/Festival2-21-small.webp",
+                "full": "./assets/Festival2-21.jpg",
+                "blur": "./assets/shared-blur.webp",
+                "w": 1600,
+                "h": 903,
+                "srcW": 1600,
+                "alt": "تصویر 21 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-1": {
                 "src": "./assets/Festival2-1.webp",
@@ -9944,7 +9954,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-1.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1205, "srcW": 1600,
-                "alt": "Festival2-1"
+                "alt": "تصویر 1 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-10": {
                 "src": "./assets/Festival2-10.webp",
@@ -9952,7 +9962,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-10.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1547, "h": 1009, "srcW": 1547,
-                "alt": "Festival2-10"
+                "alt": "تصویر 10 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-11": {
                 "src": "./assets/Festival2-11.webp",
@@ -9960,7 +9970,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-11.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 894, "srcW": 1600,
-                "alt": "Festival2-11"
+                "alt": "تصویر 11 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-12": {
                 "src": "./assets/Festival2-12.webp",
@@ -9968,7 +9978,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-12.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 998, "srcW": 1600,
-                "alt": "Festival2-12"
+                "alt": "تصویر 12 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-13": {
                 "src": "./assets/Festival2-13.webp",
@@ -9976,7 +9986,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-13.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1507, "h": 1048, "srcW": 1507,
-                "alt": "Festival2-13"
+                "alt": "تصویر 13 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-14": {
                 "src": "./assets/Festival2-14.webp",
@@ -9984,7 +9994,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-14.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1205, "srcW": 1600,
-                "alt": "Festival2-14"
+                "alt": "تصویر 14 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-15": {
                 "src": "./assets/Festival2-15.webp",
@@ -9992,7 +10002,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-15.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1053, "srcW": 1600,
-                "alt": "Festival2-15"
+                "alt": "تصویر 15 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-16": {
                 "src": "./assets/Festival2-16.webp",
@@ -10000,7 +10010,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-16.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1182, "srcW": 1600,
-                "alt": "Festival2-16"
+                "alt": "تصویر 16 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-17": {
                 "src": "./assets/Festival2-17.webp",
@@ -10008,7 +10018,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-17.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1058, "srcW": 1600,
-                "alt": "Festival2-17"
+                "alt": "تصویر 17 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-18": {
                 "src": "./assets/Festival2-18.webp",
@@ -10016,7 +10026,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-18.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1067, "srcW": 1600,
-                "alt": "Festival2-18"
+                "alt": "تصویر 18 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-19": {
                 "src": "./assets/Festival2-19.webp",
@@ -10024,7 +10034,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-19.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1040, "srcW": 1600,
-                "alt": "Festival2-19"
+                "alt": "تصویر 19 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-2": {
                 "src": "./assets/Festival2-2.webp",
@@ -10032,7 +10042,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-2.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1059, "srcW": 1600,
-                "alt": "Festival2-2"
+                "alt": "تصویر 2 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-20": {
                 "src": "./assets/Festival2-20.webp",
@@ -10040,7 +10050,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-20.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1071, "srcW": 1600,
-                "alt": "Festival2-20"
+                "alt": "تصویر 20 از اختتامیه دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-3": {
                 "src": "./assets/Festival2-3.webp",
@@ -10048,7 +10058,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-3.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 908, "srcW": 1600,
-                "alt": "Festival2-3"
+                "alt": "تصویر 3 از دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-4": {
                 "src": "./assets/Festival2-4.webp",
@@ -10056,7 +10066,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-4.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 901, "srcW": 1600,
-                "alt": "Festival2-4"
+                "alt": "تصویر 4 از دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-5": {
                 "src": "./assets/Festival2-5.webp",
@@ -10064,7 +10074,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-5.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 906, "srcW": 1600,
-                "alt": "Festival2-5"
+                "alt": "تصویر 5 از دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-6": {
                 "src": "./assets/Festival2-6.webp",
@@ -10072,7 +10082,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-6.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1205, "srcW": 1600,
-                "alt": "Festival2-6"
+                "alt": "تصویر 6 از دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-7": {
                 "src": "./assets/Festival2-7.webp",
@@ -10080,7 +10090,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-7.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 900, "srcW": 1600,
-                "alt": "Festival2-7"
+                "alt": "تصویر 7 از دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-8": {
                 "src": "./assets/Festival2-8.webp",
@@ -10088,7 +10098,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-8.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 1067, "srcW": 1600,
-                "alt": "Festival2-8"
+                "alt": "تصویر 8 از دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival2-9": {
                 "src": "./assets/Festival2-9.webp",
@@ -10096,7 +10106,7 @@ Error generating stack: ` + i.message + `
                 "full": "./assets/Festival2-9.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600, "h": 880, "srcW": 1600,
-                "alt": "Festival2-9"
+                "alt": "تصویر 9 از دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"
             },
             "Festival-1": {
                 "src": "./assets/Festival-1.webp",
@@ -10188,50 +10198,50 @@ Error generating stack: ` + i.message + `
                 "srcW": 1600,
                 "alt": "تصاویر نخستین جشنواره نمایشنامه‌خوانی هنگام جادویی (۹)"
             },
-            "festival-10": {
-                "src": "./assets/festival-10.webp",
-                "sm": "./assets/festival-10-small.webp",
-                "full": "./assets/festival-10.jpg",
+            "Festival-10": {
+                "src": "./assets/Festival-10.webp",
+                "sm": "./assets/Festival-10-small.webp",
+                "full": "./assets/Festival-10.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600,
                 "h": 1067,
                 "srcW": 1600,
                 "alt": "تصاویر اختتامیه دوره نخست (1)"
             },
-            "festival-11": {
-                "src": "./assets/festival-11.webp",
-                "sm": "./assets/festival-11-small.webp",
-                "full": "./assets/festival-11.jpg",
+            "Festival-11": {
+                "src": "./assets/Festival-11.webp",
+                "sm": "./assets/Festival-11-small.webp",
+                "full": "./assets/Festival-11.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600,
                 "h": 1067,
                 "srcW": 1600,
                 "alt": "تصاویر اختتامیه دوره نخست (2)"
             },
-            "festival-12": {
-                "src": "./assets/festival-12.webp",
-                "sm": "./assets/festival-12-small.webp",
-                "full": "./assets/festival-12.jpg",
+            "Festival-12": {
+                "src": "./assets/Festival-12.webp",
+                "sm": "./assets/Festival-12-small.webp",
+                "full": "./assets/Festival-12.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600,
                 "h": 1067,
                 "srcW": 1600,
                 "alt": "تصاویر اختتامیه دوره نخست (3)"
             },
-            "festival-13": {
-                "src": "./assets/festival-13.webp",
-                "sm": "./assets/festival-13-small.webp",
-                "full": "./assets/festival-13.jpg",
+            "Festival-13": {
+                "src": "./assets/Festival-13.webp",
+                "sm": "./assets/Festival-13-small.webp",
+                "full": "./assets/Festival-13.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600,
                 "h": 1067,
                 "srcW": 1600,
                 "alt": "تصاویر اختتامیه دوره نخست (4)"
             },
-            "festival-14": {
-                "src": "./assets/festival-14.webp",
-                "sm": "./assets/festival-14-small.webp",
-                "full": "./assets/festival-14.jpg",
+            "Festival-14": {
+                "src": "./assets/Festival-14.webp",
+                "sm": "./assets/Festival-14-small.webp",
+                "full": "./assets/Festival-14.jpg",
                 "blur": "./assets/shared-blur.webp",
                 "w": 1600,
                 "h": 1067,
@@ -11294,6 +11304,7 @@ Error generating stack: ` + i.message + `
             "edition": "edition-2",
             "group": "e2-group-2",
             "title": "خون پارس",
+            "badge": "silver",
             "writer": "سینا نظری و عرشیا حسن‌زاده",
             "director": "سینا نظری",
             "cast": ["عرشیا حسن‌زاده", "امین چهرازی", "صبا نجف‌آبادی", "سینا نظری", "آیناز موسوی"],
@@ -11310,6 +11321,7 @@ Error generating stack: ` + i.message + `
             "edition": "edition-2",
             "group": "e2-group-3",
             "title": "دو متر در دو متر جنگ",
+            "badge": "silver",
             "writer": "حمیدرضا آذرنگ",
             "director": "گروهی",
             "cast": ["یسنا رمضانی", "طهورا عابدیها", "هستی تقوی", "مینو مهربان"],
@@ -11385,6 +11397,7 @@ Error generating stack: ` + i.message + `
             "edition": "edition-2",
             "group": "e2-group-8",
             "title": "سنگ، کاغذ، قیچی",
+            "badge": "silver",
             "writer": "نیما طیبی",
             "director": "پدرام عطاپور",
             "cast": ["سهیلا کلیایی", "کیمیا کاکاوند"],
@@ -11415,6 +11428,7 @@ Error generating stack: ` + i.message + `
             "edition": "edition-2",
             "group": "e2-group-10",
             "title": "زبان تمشک‌های وحشی",
+            "badge": "silver",
             "writer": "نغمه ثمینی",
             "director": "گروهی",
             "cast": ["ناصر نجفی", "فرشته شکیبانیا", "محمدامین فرازفر"],
@@ -11490,6 +11504,7 @@ Error generating stack: ` + i.message + `
             "edition": "edition-2",
             "group": "e2-group-15",
             "title": "Love Me Do",
+            "badge": "gold",
             "writer": "محمدمهدی علی‌نژاد",
             "director": "محمدمهدی علی‌نژاد",
             "cast": ["پژمان پیکانی"],
@@ -11973,11 +11988,11 @@ Error generating stack: ` + i.message + `
         {"id": "festival-e1-8", "type": "image", "category": "festival", "edition": "edition-1", "media": "Festival-8", "caption": "نخستین جشنواره نمایشنامه‌خوانی هنگام جادویی", "all": false},
         {"id": "festival-e1-9", "type": "image", "category": "festival", "edition": "edition-1", "media": "Festival-9", "caption": "نخستین جشنواره نمایشنامه‌خوانی هنگام جادویی", "all": false},
         // ===== تصاویر اختتامیهٔ دورهٔ نخست =====
-        {"id": "festival-e1-10", "type": "image", "category": "festival", "edition": "edition-1", "media": "festival-10", "caption": "تصاویر اختتامیه دوره نخست"},
-        {"id": "festival-e1-11", "type": "image", "category": "festival", "edition": "edition-1", "media": "festival-11", "caption": "تصاویر اختتامیه دوره نخست"},
-        {"id": "festival-e1-12", "type": "image", "category": "festival", "edition": "edition-1", "media": "festival-12", "caption": "تصاویر اختتامیه دوره نخست"},
-        {"id": "festival-e1-13", "type": "image", "category": "festival", "edition": "edition-1", "media": "festival-13", "caption": "تصاویر اختتامیه دوره نخست"},
-        {"id": "festival-e1-14", "type": "image", "category": "festival", "edition": "edition-1", "media": "festival-14", "caption": "تصاویر اختتامیه دوره نخست"},
+        {"id": "festival-e1-10", "type": "image", "category": "festival", "edition": "edition-1", "media": "Festival-10", "caption": "تصاویر اختتامیه دوره نخست"},
+        {"id": "festival-e1-11", "type": "image", "category": "festival", "edition": "edition-1", "media": "Festival-11", "caption": "تصاویر اختتامیه دوره نخست"},
+        {"id": "festival-e1-12", "type": "image", "category": "festival", "edition": "edition-1", "media": "Festival-12", "caption": "تصاویر اختتامیه دوره نخست"},
+        {"id": "festival-e1-13", "type": "image", "category": "festival", "edition": "edition-1", "media": "Festival-13", "caption": "تصاویر اختتامیه دوره نخست"},
+        {"id": "festival-e1-14", "type": "image", "category": "festival", "edition": "edition-1", "media": "Festival-14", "caption": "تصاویر اختتامیه دوره نخست"},
         // ===== تصاویر برندگان دورهٔ نخست =====
         {"id": "winners-e1-1", "type": "image", "category": "winners", "edition": "edition-1", "media": "Awards-1", "caption": "تصاویر برندگان دوره نخست"},
         {"id": "winners-e1-2", "type": "image", "category": "winners", "edition": "edition-1", "media": "Awards-2", "caption": "تصاویر برندگان دوره نخست"},
@@ -12073,7 +12088,7 @@ Error generating stack: ` + i.message + `
             edition: "edition-2",
             media: "poster-edition-2",
             caption: "پوستر فراخوان دومین جشنواره"
-        }, {"id": "poster-e2-1", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-1", "caption": "پوستر نمایش چهار صندوق"}, {"id": "poster-e2-2", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-2", "caption": "پوستر نمایش خون پارس"}, {"id": "poster-e2-3", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-3", "caption": "پوستر نمایش دو متر در دو متر جنگ"}, {"id": "poster-e2-4", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-4", "caption": "پوستر نمایش روشنک"}, {"id": "poster-e2-5", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-5", "caption": "پوستر نمایش مرگ یزدگرد"}, {"id": "poster-e2-6", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-6", "caption": "پوستر نمایش ساعت ۱۰ شب"}, {"id": "poster-e2-7", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-7", "caption": "پوستر نمایش ریشه است، نه زنجیر"}, {"id": "poster-e2-8", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-8", "caption": "پوستر نمایش سنگ، کاغذ، قیچی"}, {"id": "poster-e2-9", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-9", "caption": "پوستر نمایش برفک"}, {"id": "poster-e2-10", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-10", "caption": "پوستر نمایش زبان تمشک‌های وحشی"}, {"id": "poster-e2-11", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-11", "caption": "پوستر نمایش هیزم"}, {"id": "poster-e2-12", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-12", "caption": "پوستر نمایش سهراب‌کشی"}, {"id": "poster-e2-13", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-13", "caption": "پوستر نمایش من زنده‌ام"}, {"id": "poster-e2-14", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-14", "caption": "پوستر نمایش چشم‌های بسته از خواب"}, {"id": "poster-e2-15", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-15", "caption": "پوستر نمایش Love Me Do"}, , {"id":"festival-e2-1","type":"image","category":"festival","edition":"edition-2","media":"Festival2-1","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-2","type":"image","category":"festival","edition":"edition-2","media":"Festival2-2","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-3","type":"image","category":"festival","edition":"edition-2","media":"Festival2-3","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-4","type":"image","category":"festival","edition":"edition-2","media":"Festival2-4","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-5","type":"image","category":"festival","edition":"edition-2","media":"Festival2-5","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-6","type":"image","category":"festival","edition":"edition-2","media":"Festival2-6","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-7","type":"image","category":"festival","edition":"edition-2","media":"Festival2-7","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-8","type":"image","category":"festival","edition":"edition-2","media":"Festival2-8","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-9","type":"image","category":"festival","edition":"edition-2","media":"Festival2-9","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-10","type":"image","category":"festival","edition":"edition-2","media":"Festival2-10","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-11","type":"image","category":"festival","edition":"edition-2","media":"Festival2-11","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-12","type":"image","category":"festival","edition":"edition-2","media":"Festival2-12","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-13","type":"image","category":"festival","edition":"edition-2","media":"Festival2-13","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-14","type":"image","category":"festival","edition":"edition-2","media":"Festival2-14","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-15","type":"image","category":"festival","edition":"edition-2","media":"Festival2-15","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-16","type":"image","category":"festival","edition":"edition-2","media":"Festival2-16","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-17","type":"image","category":"festival","edition":"edition-2","media":"Festival2-17","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-18","type":"image","category":"festival","edition":"edition-2","media":"Festival2-18","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-19","type":"image","category":"festival","edition":"edition-2","media":"Festival2-19","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-20","type":"image","category":"festival","edition":"edition-2","media":"Festival2-20","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"winners-e2-1","type":"image","category":"winners","edition":"edition-2","media":"Awards2-1","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-2","type":"image","category":"winners","edition":"edition-2","media":"Awards2-2","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-3","type":"image","category":"winners","edition":"edition-2","media":"Awards2-3","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-4","type":"image","category":"winners","edition":"edition-2","media":"Awards2-4","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-5","type":"image","category":"winners","edition":"edition-2","media":"Awards2-5","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-6","type":"image","category":"winners","edition":"edition-2","media":"Awards2-6","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-7","type":"image","category":"winners","edition":"edition-2","media":"Awards2-7","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-8","type":"image","category":"winners","edition":"edition-2","media":"Awards2-8","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-9","type":"image","category":"winners","edition":"edition-2","media":"Awards2-9","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-10","type":"image","category":"winners","edition":"edition-2","media":"Awards2-10","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-11","type":"image","category":"winners","edition":"edition-2","media":"Awards2-11","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-12","type":"image","category":"winners","edition":"edition-2","media":"Awards2-12","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-13","type":"image","category":"winners","edition":"edition-2","media":"Awards2-13","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-14","type":"image","category":"winners","edition":"edition-2","media":"Awards2-14","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-15","type":"image","category":"winners","edition":"edition-2","media":"Awards2-15","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-16","type":"image","category":"winners","edition":"edition-2","media":"Awards2-16","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-17","type":"image","category":"winners","edition":"edition-2","media":"Awards2-17","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-18","type":"image","category":"winners","edition":"edition-2","media":"Awards2-18","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-19","type":"image","category":"winners","edition":"edition-2","media":"Awards2-19","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-20","type":"image","category":"winners","edition":"edition-2","media":"Awards2-20","caption":"تصاویر برندگان دوره دوم"}],
+        }, {"id": "poster-e2-1", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-1", "caption": "پوستر نمایش چهار صندوق"}, {"id": "poster-e2-2", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-2", "caption": "پوستر نمایش خون پارس"}, {"id": "poster-e2-3", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-3", "caption": "پوستر نمایش دو متر در دو متر جنگ"}, {"id": "poster-e2-4", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-4", "caption": "پوستر نمایش روشنک"}, {"id": "poster-e2-5", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-5", "caption": "پوستر نمایش مرگ یزدگرد"}, {"id": "poster-e2-6", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-6", "caption": "پوستر نمایش ساعت ۱۰ شب"}, {"id": "poster-e2-7", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-7", "caption": "پوستر نمایش ریشه است، نه زنجیر"}, {"id": "poster-e2-8", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-8", "caption": "پوستر نمایش سنگ، کاغذ، قیچی"}, {"id": "poster-e2-9", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-9", "caption": "پوستر نمایش برفک"}, {"id": "poster-e2-10", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-10", "caption": "پوستر نمایش زبان تمشک‌های وحشی"}, {"id": "poster-e2-11", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-11", "caption": "پوستر نمایش هیزم"}, {"id": "poster-e2-12", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-12", "caption": "پوستر نمایش سهراب‌کشی"}, {"id": "poster-e2-13", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-13", "caption": "پوستر نمایش من زنده‌ام"}, {"id": "poster-e2-14", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-14", "caption": "پوستر نمایش چشم‌های بسته از خواب"}, {"id": "poster-e2-15", "type": "image", "category": "posters", "edition": "edition-2", "media": "work-e2-15", "caption": "پوستر نمایش Love Me Do"}, , {"id":"festival-e2-1","type":"image","category":"festival","edition":"edition-2","media":"Festival2-1","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-2","type":"image","category":"festival","edition":"edition-2","media":"Festival2-2","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-3","type":"image","category":"festival","edition":"edition-2","media":"Festival2-3","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-4","type":"image","category":"festival","edition":"edition-2","media":"Festival2-4","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-5","type":"image","category":"festival","edition":"edition-2","media":"Festival2-5","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-6","type":"image","category":"festival","edition":"edition-2","media":"Festival2-6","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-7","type":"image","category":"festival","edition":"edition-2","media":"Festival2-7","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-8","type":"image","category":"festival","edition":"edition-2","media":"Festival2-8","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-9","type":"image","category":"festival","edition":"edition-2","media":"Festival2-9","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-21","type":"image","category":"festival","edition":"edition-2","media":"Festival2-21","caption":"دومین جشنواره نمایشنامه‌خوانی هنگام جادویی"}, {"id":"festival-e2-10","type":"image","category":"festival","edition":"edition-2","media":"Festival2-10","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-11","type":"image","category":"festival","edition":"edition-2","media":"Festival2-11","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-12","type":"image","category":"festival","edition":"edition-2","media":"Festival2-12","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-13","type":"image","category":"festival","edition":"edition-2","media":"Festival2-13","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-14","type":"image","category":"festival","edition":"edition-2","media":"Festival2-14","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-15","type":"image","category":"festival","edition":"edition-2","media":"Festival2-15","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-16","type":"image","category":"festival","edition":"edition-2","media":"Festival2-16","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-17","type":"image","category":"festival","edition":"edition-2","media":"Festival2-17","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-18","type":"image","category":"festival","edition":"edition-2","media":"Festival2-18","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-19","type":"image","category":"festival","edition":"edition-2","media":"Festival2-19","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"festival-e2-20","type":"image","category":"festival","edition":"edition-2","media":"Festival2-20","caption":"تصاویر اختتامیه دوره دوم"}, {"id":"winners-e2-1","type":"image","category":"winners","edition":"edition-2","media":"Awards2-1","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-2","type":"image","category":"winners","edition":"edition-2","media":"Awards2-2","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-3","type":"image","category":"winners","edition":"edition-2","media":"Awards2-3","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-4","type":"image","category":"winners","edition":"edition-2","media":"Awards2-4","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-5","type":"image","category":"winners","edition":"edition-2","media":"Awards2-5","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-6","type":"image","category":"winners","edition":"edition-2","media":"Awards2-6","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-7","type":"image","category":"winners","edition":"edition-2","media":"Awards2-7","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-8","type":"image","category":"winners","edition":"edition-2","media":"Awards2-8","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-9","type":"image","category":"winners","edition":"edition-2","media":"Awards2-9","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-10","type":"image","category":"winners","edition":"edition-2","media":"Awards2-10","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-11","type":"image","category":"winners","edition":"edition-2","media":"Awards2-11","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-12","type":"image","category":"winners","edition":"edition-2","media":"Awards2-12","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-13","type":"image","category":"winners","edition":"edition-2","media":"Awards2-13","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-14","type":"image","category":"winners","edition":"edition-2","media":"Awards2-14","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-15","type":"image","category":"winners","edition":"edition-2","media":"Awards2-15","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-16","type":"image","category":"winners","edition":"edition-2","media":"Awards2-16","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-17","type":"image","category":"winners","edition":"edition-2","media":"Awards2-17","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-18","type":"image","category":"winners","edition":"edition-2","media":"Awards2-18","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-19","type":"image","category":"winners","edition":"edition-2","media":"Awards2-19","caption":"تصاویر برندگان دوره دوم"}, {"id":"winners-e2-20","type":"image","category":"winners","edition":"edition-2","media":"Awards2-20","caption":"تصاویر برندگان دوره دوم"}],
         Hjv = Nr.filter(x => !x.previewOnly),
         HjAll = Hjv.filter(x => x.all !== !1),
         HjMarquee = HjAll.filter(x => x.media && !/^work-e2-/.test(x.media) && (x.category === "posters" || /-(3)$/.test(x.media) || /^Festival-[1-3]$/.test(x.media))),
@@ -12640,7 +12655,13 @@ Error generating stack: ` + i.message + `
                     children: [re.program]
                 }), (0, ae.jsxs)("p", {
                     className: "num",
-                    children: ["\xA9 ", o, " دبیرخانه جشنواره هنگام جادویی"]
+                    children: ["\xA9 ", o, " دبیرخانه جشنواره هنگام جادویی", (0, ae.jsx)("a", {
+                        className: "footer__provider",
+                        href: "https://www.linkedin.com/in/mohammad-amin-farazfar-9b5790428 ",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        children: "              \t      provider:m.a.farazfar                 \t ."
+                    })]
                 })]
             })]
         })
@@ -13204,7 +13225,7 @@ Error generating stack: ` + i.message + `
                         className: "show-card__sweep",
                         "aria-hidden": "true"
                     }), s.badge ? (0, Ie.jsxs)("span", {
-                        className: "show-card__badge",
+                        className: `show-card__badge ${s.badge === "silver" ? "show-card__badge--silver" : ""}`,
                         children: [(0, Ie.jsx)(Lh, {
                             size: 14,
                             strokeWidth: 1.75,
