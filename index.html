@@ -33,7 +33,8 @@
       content="https://festivaljadooei.ir/"
     />
 
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" id="site-styles" href="./styles.css" />
+    <script>document.getElementById("site-styles").href = location.protocol === "file:" ? "./styles.css" : "/styles.css";</script>
   </head>
 
   <body>
@@ -43,7 +44,7 @@
       <nav><a href="/editions">دوره‌های جشنواره</a> · <a href="/works">اجراها و برگزیدگان</a> · <a href="/gallery">گالری تصاویر</a></nav>
     </noscript>
     <div id="root"></div>
-    <script src="./app.js"></script>
+    <script>document.write('<script src="' + (location.protocol === 'file:' ? './app.js' : '/app.js') + '"><\\/script>');</script>
   </body>
 </html>
 ```
