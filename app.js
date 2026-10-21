@@ -12671,7 +12671,10 @@ Error generating stack: ` + i.message + `
                         href: "https://www.linkedin.com/in/mohammad-amin-farazfar-9b5790428 ",
                         target: "_blank",
                         rel: "noopener noreferrer",
-                        children: "              \t      provider:m.a.farazfar                 \t ."
+                        children: ["              \t      provider", (0, ae.jsx)("span", {
+                            className: "footer__provider-name",
+                            children: ":m.a.farazfar                 \t ."
+                        })]
                     })]
                 })]
             })]
@@ -14637,22 +14640,41 @@ Error generating stack: ` + i.message + `
             path: "/gallery",
             jsonLd: On(of)
         });
-        let qp = new URLSearchParams(window.location.hash.split("?")[1] || ""),
-            [s, o] = (0, sf.useState)(() => Tm.some(g => g.id === qp.get("tab")) ? qp.get("tab") : "all"), d = (0, sf.useMemo)(() => s === "all" ? HjAll : Hjv.filter(g => g.category === s), [s]), c = s === "all" || s === "videos", wk = qp.get("work");
+        let HjQ = a(() => window.location.protocol === "file:" ? new URLSearchParams(window.location.hash.split("?")[1] || "") : new URLSearchParams(window.location.search || ""), "readGalleryQuery"),
+            HjTab = a(t => Tm.some(g => g.id === t) ? t : "all", "validGalleryTab"),
+            [qs, sqs] = (0, sf.useState)(() => HjQ().toString()),
+            qp = new URLSearchParams(qs),
+            [s, o] = (0, sf.useState)(() => HjTab(qp.get("tab"))), d = (0, sf.useMemo)(() => s === "all" ? HjAll : Hjv.filter(g => g.category === s), [s]), c = s === "all" || s === "videos", wk = qp.get("work");
         (0, sf.useEffect)(() => {
-            if (!wk) return;
-            let n = 0, t = setInterval(() => {
-                let el = document.getElementById(`gw-${wk}`);
-                (el || ++n > 20) && (clearInterval(t), el && (setTimeout(() => el.scrollIntoView({
+            let sync = a(() => {
+                let p = HjQ();
+                sqs(p.toString()), o(HjTab(p.get("tab")))
+            }, "syncGalleryQuery");
+            return sync(), window.addEventListener("popstate", sync), window.addEventListener("hashchange", sync), () => {
+                window.removeEventListener("popstate", sync), window.removeEventListener("hashchange", sync)
+            }
+        }, []);
+        (0, sf.useEffect)(() => {
+            let tab = qp.get("tab");
+            if (!tab && !wk) return;
+            let n = 0, ts = [],
+                find = a(() => (wk && document.getElementById(`gw-${wk}`)) || document.querySelector(".gallery-groups, .masonry"), "findGalleryTarget"),
+                go = a(el => el.scrollIntoView({
                     behavior: "smooth",
                     block: "start"
-                }), 450), setTimeout(() => el.scrollIntoView({
-                    behavior: "smooth",
-                    block: "start"
-                }), 1600)))
-            }, 150);
-            return () => clearInterval(t)
-        }, [wk]);
+                }), "scrollGallery"),
+                tick = a(() => {
+                    let el = find();
+                    if (el) {
+                        go(el), ts.push(setTimeout(() => {
+                            let again = find();
+                            again && go(again)
+                        }, 1200));
+                        return
+                    }++n < 20 && ts.push(setTimeout(tick, 150))
+                }, "tryScrollGallery");
+            return ts.push(setTimeout(tick, 300)), () => ts.forEach(clearTimeout)
+        }, [qs, s]);
         return (0, bn.jsxs)(bn.Fragment, {
             children: [(0, bn.jsx)(rt, {
                 label: "آرشیو تصویری",

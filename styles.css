@@ -10265,3 +10265,14 @@ html[data-ed="1"] .subnav {
 }
 .footer__provider:hover,
 .footer__provider:focus-visible { color: rgb(235 235 225 / .7); opacity: 1; }
+
+
+/* Mobile: keep the attribution almost invisible, only the word "provider". */
+@media (max-width: 599px) {
+    .footer__provider {
+        font-size: .5rem;
+        letter-spacing: .03em;
+        opacity: .4;
+    }
+    .footer__provider-name { display: none; }
+}
