@@ -12812,8 +12812,9 @@ Error generating stack: ` + i.message + `
             d || (d = document.createElement("link"), d.setAttribute("rel", s), document.head.appendChild(d)), d.setAttribute("href", o)
         }, "setLink"),
         Ma = a((s = "/") => {
-            let o = re.url ?? `${window.location.origin}${window.location.pathname}`;
-            return re.url ? `${o.replace(/\/$/,"")}${s}` : `${o}#${s}`
+            if (re.url) return `${re.url.replace(/\/$/,"")}${s}`;
+            if (window.location.protocol === "file:") return `${window.location.origin}${s}`;
+            return `${window.location.origin}${s}`;
         }, "absoluteUrl");
 
     function un({

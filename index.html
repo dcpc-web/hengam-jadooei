@@ -4,33 +4,36 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>جشنواره نمایشنامه‌خوانی هنگامه جادویی | تئاتر قزوین</title>
+    <title>جشنواره نمایشنامه‌خوانی هنگام جادویی | تئاتر قزوین</title>
 
     <meta
       name="description"
-      content="هنگامه جادویی؛ جشنواره نمایشنامه‌خوانی با محتوای اجراهای نمایشی و معرفی کلاس‌های فن بیان و نمایشنامه‌خوانی در قزوین."
+      content="هنگام جادویی؛ جشنواره نمایشنامه‌خوانی با محتوای اجراهای نمایشی و معرفی کلاس‌های فن بیان و نمایشنامه‌خوانی در قزوین."
     />
 
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        var encodedPath = params.get("p");
+        if (!encodedPath) return;
+        var path = encodedPath.charAt(0) === "/" ? encodedPath : "/" + encodedPath;
+        var query = params.get("q");
+        var hash = params.get("h");
+        var restored = path + (query ? "?" + query : "") + (hash ? "#" + hash : "");
+        window.history.replaceState(null, "", restored);
+      }());
+    </script>
     <meta name="robots" content="index,follow" />
-
-    <link
-      rel="canonical"
-      href="https://festivaljadooei.ir/"
-    />
 
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="fa_IR" />
     <meta
       property="og:title"
-      content="جشنواره نمایشنامه‌خوانی هنگامه جادویی"
+      content="جشنواره نمایشنامه‌خوانی هنگام جادویی"
     />
     <meta
       property="og:description"
       content="جشنواره نمایشنامه‌خوانی، اجراهای نمایشی و کلاس‌های فن بیان و نمایشنامه‌خوانی در قزوین."
-    />
-    <meta
-      property="og:url"
-      content="https://festivaljadooei.ir/"
     />
 
     <link rel="icon" href="/favicon.ico" sizes="any" />
