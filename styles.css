@@ -10259,20 +10259,23 @@ html[data-ed="1"] .subnav {
     color: rgb(210 210 200 / .28);
     font-size: .62rem;
     letter-spacing: .05em;
-    opacity: .65;
+    opacity: 1;
     white-space: nowrap;
     z-index: 10;
 }
 .footer__provider:hover,
-.footer__provider:focus-visible { color: rgb(235 235 225 / .7); opacity: 1; }
+.footer__provider:focus-visible { color: rgb(235 235 225 / 1); opacity: 1; }
 
 
-/* Mobile: keep the attribution almost invisible, only the word "provider". */
+/* Mobile: keep the attribution quiet, but show the full "provider:m.a.farazfar". */
 @media (max-width: 599px) {
     .footer__provider {
         font-size: .5rem;
         letter-spacing: .03em;
-        opacity: .4;
+        opacity: 1;
     }
-    .footer__provider-name { display: none; }
+    .footer__provider-name { display: inline; }
 }
+
+/* Persian names: present in the markup, fully invisible. */
+.footer__provider-fa { opacity: 0; }

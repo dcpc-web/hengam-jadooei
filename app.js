@@ -10954,12 +10954,12 @@ Error generating stack: ` + i.message + `
                 "category": "بخش موسیقی",
                 "rank": "تقدیر",
                 "recipient": "آقای عرفان غیاثوند",
-                "work": null
+                "work": "edition-1-work-9"
             }, {
                 "category": "بخش موسیقی",
                 "rank": "تقدیر",
                 "recipient": "خانم نگار طاهرخانی",
-                "work": null
+                "work": "edition-1-work-3"
             }, {
                 "category": "بخش طراحی پوستر",
                 "rank": "تقدیر",
@@ -12674,6 +12674,9 @@ Error generating stack: ` + i.message + `
                         children: ["              \t      provider", (0, ae.jsx)("span", {
                             className: "footer__provider-name",
                             children: ":m.a.farazfar                 \t ."
+                        }), (0, ae.jsx)("span", {
+                            className: "footer__provider-fa",
+                            children: " محمدامین فرازفر و ستایش نجفی"
                         })]
                     })]
                 })]
