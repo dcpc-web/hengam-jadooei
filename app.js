@@ -11880,6 +11880,26 @@ Error generating stack: ` + i.message + `
                 text: "[متن خبر]"
             }]
         }],
+        Hpress = [{
+            "edition": "دورهٔ دوم",
+            "year": "۱۴۰۵",
+            "items": [
+                {"outlet": "خبرگزاری ایرنا", "title": "انتخاب ۱۵ نمایشنامه در مرحلهٔ رقابت دومین جشنواره هنگام جادویی قزوین", "date": "۱۴ مهر ۱۴۰۵", "url": "https://www.irna.ir/amp/86284665/"},
+                {"outlet": "خبرگزاری مهر", "title": "۱۵ نمایشنامه به مرحلهٔ رقابت جشنوارهٔ «هنگام جادویی» راه یافتند", "date": "۱۴ مهر ۱۴۰۵", "url": "https://www.mehrnews.com/news/6969880/%DB%B1%DB%B5-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D9%87-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%87%D9%86%DA%AF%D8%A7%D9%85-%D8%AC%D8%A7%D8%AF%D9%88%DB%8C%DB%8C-%D8%B1%D8%A7%D9%87-%DB%8C%D8%A7%D9%81%D8%AA%D9%86%D8%AF"},
+                {"outlet": "باشگاه خبرنگاران جوان", "title": "انتخاب ۱۵ نمایشنامه در مرحلهٔ رقابت دومین جشنواره هنگام جادویی قزوین", "date": "۱۴ مهر ۱۴۰۵", "url": "https://www.yjc.ir/fa/amp/news/9136219"},
+                {"outlet": "خبرگزاری ایسنا", "title": "معرفی ۱۵ نمایشنامهٔ راه‌یافته به مرحلهٔ رقابت جشنوارهٔ «هنگام جادویی» در قزوین", "date": "۱۵ مهر ۱۴۰۵", "url": "https://www.isna.ir/amp/1405071509942/"},
+                {"outlet": "ولایت", "title": "راهیابی ۱۵ نمایشنامه به مرحلهٔ رقابت جشنوارهٔ «هنگام جادویی»", "date": "۲۰ مهر ۱۴۰۵", "url": "https://velaiatnews.com/%D8%B1%D8%A7%D9%87%DB%8C%D8%A7%D8%A8%DB%8C-%DB%B1%DB%B5-%D9%86%D9%85%D8%A7%DB%8C%D8%B4%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D9%87-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA-%D8%AC%D8%B4/"},
+                {"outlet": "ایران تئاتر", "title": null, "date": null, "url": "https://theater.ir/ci/fa/200881"},
+                {"outlet": "ایران تئاتر · قزوین", "title": null, "date": null, "url": "https://ghazvin.theater.ir/fa/attach/518349"}
+            ]
+        }, {
+            "edition": "دورهٔ اول",
+            "year": "۱۴۰۴",
+            "items": [
+                {"outlet": "ایران تئاتر", "title": null, "date": null, "url": "https://theater.ir/fa/191100"},
+                {"outlet": "ایران تئاتر · قزوین", "title": null, "date": null, "url": "https://ghazvin.theater.ir/fa/191089"}
+            ]
+        }],
         Tm = [{
             id: "all",
             label: "همه"
@@ -15690,6 +15710,56 @@ Error generating stack: ` + i.message + `
                             })
                         }, x.slug))
                     }) : null]
+                })
+            }), (0, Rn.jsx)("section", {
+                className: "section stage press",
+                "aria-labelledby": "press-title",
+                children: (0, Rn.jsxs)("div", {
+                    className: "container",
+                    children: [(0, Rn.jsx)($e, {
+                        label: "بازتاب رسانه‌ای",
+                        title: "جشنواره در رسانه‌ها"
+                    }), (0, Rn.jsx)("div", {
+                        className: "press__groups",
+                        children: Hpress.map(gr => (0, Rn.jsxs)("div", {
+                            className: "press__group",
+                            children: [(0, Rn.jsxs)("h3", {
+                                className: "press__edition",
+                                id: gr === Hpress[0] ? "press-title" : void 0,
+                                children: [gr.edition, (0, Rn.jsx)("span", {
+                                    className: "press__year num",
+                                    children: gr.year
+                                })]
+                            }), (0, Rn.jsx)("ul", {
+                                className: "press__list",
+                                children: gr.items.map((it, w) => (0, Rn.jsx)(W, {
+                                    as: "li",
+                                    delay: w % 3,
+                                    children: (0, Rn.jsxs)("a", {
+                                        className: "press__item",
+                                        href: it.url,
+                                        target: "_blank",
+                                        rel: "noopener noreferrer",
+                                        "data-cursor": "view",
+                                        children: [(0, Rn.jsx)("span", {
+                                            className: "press__outlet",
+                                            children: it.outlet
+                                        }), (0, Rn.jsx)("span", {
+                                            className: "press__title",
+                                            children: it.title ?? "مطالعهٔ خبر در وب‌سایت " + it.outlet.split(" · ")[0]
+                                        }), (0, Rn.jsx)("span", {
+                                            className: "press__date num",
+                                            children: it.date ?? ""
+                                        }), (0, Rn.jsx)("span", {
+                                            className: "press__arrow",
+                                            "aria-hidden": "true",
+                                            children: "\u2196"
+                                        })]
+                                    })
+                                }, it.url))
+                            })]
+                        }, gr.edition))
+                    })]
                 })
             })]
         })
